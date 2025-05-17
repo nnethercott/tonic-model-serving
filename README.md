@@ -1,5 +1,5 @@
-# tonic-model-serving
-Model serving from scratch in pure Rust. Made with tonic, axum, candle.rs, and ❤️
+# chat-rs
+LLM model serving from scratch in pure Rust. Made with tonic, axum, candle.rs, and ❤️
 
 Currently a work in progress ... 
 
